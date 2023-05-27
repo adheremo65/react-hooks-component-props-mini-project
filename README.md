@@ -42,7 +42,7 @@ Make an `About` component as a child of `App`. It should return:
   - an `<img>` element, with the `src` set to an image passed as a prop called
     `image`
   - the `<img>` element should use this placeholder image as a _default value_
-    for the prop if no prop is passed in: "https://via.placeholder.com/215"
+    for the prop if no prop is passed in: ß
   - the image should also be accessible! Give it an `alt` attribute of "blog
     logo"
   - a `<p>` element, with the text for the blog passed in as a prop called
